@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "397022408693",
+    "firebase_url": "https://cats-and-ramen-default-rtdb.firebaseio.com",
+    "project_id": "cats-and-ramen",
+    "storage_bucket": "cats-and-ramen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397022408693:android:f19bfa695bbe84a9383abc",
+        "android_client_info": {
+          "package_name": "com.catsandramen.FirebaseAuthTest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397022408693-o2s8nrtcfmopa4nj0fbjd395bejtg1p5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs_DbIt1ilFe0r6nun-2Zz4Izs40NNWNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397022408693-o2s8nrtcfmopa4nj0fbjd395bejtg1p5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
